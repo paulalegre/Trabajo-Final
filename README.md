@@ -1,70 +1,72 @@
+# 🎓 Trabajo Integrador Final – Estudio Multimedia
 
-# Trabajo Integrador Final - Laboratorio de Hardware
-# Tema 2: Estudio Multimedia
-## División de Tareas
+**Instituto Superior IDRA**  
+**Tecnicatura en Desarrollo de Software**  
+**Materia: Laboratorio de Hardware – Año 2025**
 
-1: Investigación y Requisitos de Software
+---
 
-Responsabilidades:
+## 📘 Descripción
 
-* Investigar los requisitos recomendados (no mínimos) de los siguientes programas:
+Este proyecto consiste en el armado y justificación de una computadora optimizada para un **estudio multimedia profesional**, enfocada en el uso de programas como:
 
-* Audacity, Blender, GIMP, Inkscape, Krita, OBS Studio
-Completar la tabla comparativa con los siguientes datos:
+- Audacity (audio)
+- Blender (3D)
+- Inkscape, Krita, GIMP (diseño gráfico)
+- OBS Studio (streaming)
 
-Sistema operativo compatible
-CPU recomendada
-RAM recomendada
-Almacenamiento requerido
-GPU (si aplica)
- Definir y justificar el sistema operativo final
-Redactar el contenido para `requisitos.html`
+---
 
-Archivo principal a entregar:`requisitos.html`
+## 🧾 Componentes Seleccionados
 
-2: Selección de Hardware y Presupuesto
+| Componente              | Modelo                             | Precio (ARS)     |
+|-------------------------|-------------------------------------|------------------|
+| Procesador              | Intel Core i5-12600K                | $277.000         |
+| Placa de video          | NVIDIA RTX 3060 12GB                | $411.000         |
+| Memoria RAM             | 16GB DDR5 6000MHz Patriot           | $61.250          |
+| Motherboard             | ASRock B760M PRO RS DDR5            | $188.600         |
+| SSD                     | Kingston 960GB A400                 | $82.800          |
+| Fuente                  | Be Quiet! 750W 80+ Bronze           | $97.500          |
+| Gabinete                | XYZ Airone 100 Mesh                 | $61.150          |
 
-Responsabilidades:
+🧩 **Total hardware:** $1.179.300 ARS
 
-Diseñar la configuración completa de la PC:
+---
 
-CPU, GPU, RAM, disco, motherboard, gabinete, fuente, monitor, periféricos, etc.
-Buscar precios actualizados en Argentina con fuente (CompraGamer, MercadoLibre, etc.)
-Justificar técnicamente cada elección de hardware
-Armar la planilla de presupuesto total
-Redactar el contenido para `justificacion.html` y `presupuesto.html`
+## 🎧 Periféricos
 
-Archivos principales a entregar: `justificacion.html` y `presupuesto.html`
+| Dispositivo           | Modelo                    | Precio (ARS)     |
+|------------------------|---------------------------|------------------|
+| Monitor                | LG 24MK600M 24" LCD        | $311.178         |
+| Auriculares            | Audio-Technica ATH-M20x   | $120.287         |
+| Micrófono              | Blue Snowball Ice         | $82.900          |
+| Mouse                  | Redragon Cobra M711 RGB   | $24.579          |
+| Teclado                | Logitech K120             | $11.799          |
+| Mousepad               | Redragon Flick S P029     | $6.000           |
 
+🖥️ **Total periféricos:** $555.743 ARS
 
+---
 
+## 💵 Inversión Total
 
+🟢 **Total general:** $1.735.043 ARS  
+📅 Precios de referencia – Diciembre 2024
 
- 3: Desarrollo del Sitio Web (HTML + CSS)
+---
 
-Responsabilidades:
+## 🪟 Sistema Operativo
 
-Crear todos los archivos HTML necesarios:
+🖥️ **Windows 11 Pro (64-bit)**  
+Justificado por su amplia compatibilidad, soporte moderno y estabilidad para entornos multimedia.
 
-  * `index.html`, `requisitos.html`, `justificacion.html`, `presupuesto.html`, `conclusiones.html`
-Diseñar el estilo con CSS (`estilos.css`)
-Implementar el menú de navegación
-Incorporar imágenes y capturas en la carpeta `/img`
-Asegurar la navegación clara, estética y funcionalidad
+---
 
-Archivos principales a entregar:Todos los archivos del sitio web (HTML, CSS, imágenes)
+## ✅ Objetivo cumplido
 
-4: Repositorio, Publicación y Presentación Final
+✔ Sistema completo, balanceado y apto para tareas profesionales de diseño, edición, renderizado y streaming multimedia.
 
-Responsabilidades:
+---
 
-Crear el repositorio en GitHub y subir todos los archivos del sitio
-Usar Git para versionar el proyecto con commits ordenados
-Publicar el sitio estático en GitHub Pages
-Preparar y grabar la presentación audiovisual (exponiendo contexto, decisiones técnicas, demostración del sitio)
+🔗 [Ver repositorio en GitHub](https://github.com/paulalegre/Trabajo-Final)
 
-Entregables:
-
-Enlace al sitio web publicado en GitHub Pages
-Enlace al repositorio GitHub
-Archivo o enlace de la presentación audiovisual
