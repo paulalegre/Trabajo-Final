@@ -22,12 +22,12 @@ Este proyecto consiste en el armado y justificación de una computadora optimiza
 | Componente              | Modelo                             | Precio (ARS)     |
 |-------------------------|-------------------------------------|------------------|
 | Procesador              | Intel Core i5-12600K                | $277.000         |
-| Placa de video          | NVIDIA RTX 3060 12GB                | $411.000         |
-| Memoria RAM             | 16GB DDR5 6000MHz Patriot           | $61.250          |
-| Motherboard             | ASRock B760M PRO RS DDR5            | $188.600         |
-| SSD                     | Kingston 960GB A400                 | $82.800          |
-| Fuente                  | Be Quiet! 750W 80+ Bronze           | $97.500          |
-| Gabinete                | XYZ Airone 100 Mesh                 | $61.150          |
+| Placa de video          | NVIDIA RTX 3060 12GB                | $415.000         |
+| Memoria RAM             | 16GB DDR5 6000MHz Patriot           | $61.750          |
+| Motherboard             | ASRock B760M PRO RS DDR5            | $190.150         |
+| SSD                     | Kingston 960GB A400                 | $83.430          |
+| Fuente                  | Be Quiet! 750W 80+ Bronze           | $98.300          |
+| Gabinete                | XYZ Airone 100 Mesh                 | $61.700          |
 
 🧩 **Total hardware:** $1.743.073 ARS
 
