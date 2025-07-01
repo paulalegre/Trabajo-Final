@@ -29,7 +29,7 @@ Este proyecto consiste en el armado y justificación de una computadora optimiza
 | Fuente                  | Be Quiet! 750W 80+ Bronze           | $97.500          |
 | Gabinete                | XYZ Airone 100 Mesh                 | $61.150          |
 
-🧩 **Total hardware:** $1.179.300 ARS
+🧩 **Total hardware:** $1.743.073 ARS
 
 ---
 
@@ -51,7 +51,7 @@ Este proyecto consiste en el armado y justificación de una computadora optimiza
 ## 💵 Inversión Total
 
 🟢 **Total general:** $1.735.043 ARS  
-📅 Precios de referencia – Diciembre 2024
+📅 Precios de referencia – Junio 2025
 
 ---
 
